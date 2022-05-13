@@ -16,7 +16,7 @@ body {
     padding-left: 40px;
     padding-top: 30px;
     width: 350px;
-    box-shadow: 30px 30px 30px black;
+    box-shadow: 0 0 20px black;
 }
 
 .img {
@@ -157,6 +157,10 @@ color: hsl(228, 45%, 44%);
         top: 1%;
         right: 0.5%;
         padding: 108px;
+    }
+
+    .bottom {
+        padding: 0;
     }
 }
 
